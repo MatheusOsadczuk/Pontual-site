@@ -1,0 +1,164 @@
+
+
+header{
+    background: black;
+}
+
+.tituloprincipal{
+    font-family: 'Pixelify Sans', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    background: greenyellow;
+    background-size: auto;
+}
+
+.logo{
+    width: 20%;
+    padding-left: 10px;
+}
+
+nav {
+	position: absolute;
+	top: 110px;
+	right: 0;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+    font-size: 35px;
+}
+
+nav a:hover{
+    color: greenyellow;
+    text-decoration: underline;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #CCCCCC;
+	font-weight: bold;
+	font-size: 25px;
+	text-decoration: none;
+}
+
+.pontualprincipal{
+    width: 100%;
+}
+
+footer{
+    background: rgb(37, 62, 100);
+    text-align: center;
+}
+
+.logobranco{
+    width: 15%;
+}
+
+.copyright{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+li h2{
+    background: greenyellow;
+}
+
+li img{
+    width: 100%;
+    background: greenyellow;
+    margin: 10px 0;
+}
+
+.serviçoitem{
+    font-family: 'Pixelify Sans', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 60px;
+    background: #CCCCCC;
+    text-align: center;
+}
+
+main{
+    width: 940px;
+    margin: 0 auto;
+}
+
+.contatodiv{
+    width: 100%;
+    background: rgb(122, 226, 122);
+    max-height: 100vh;
+}
+
+.contatodiv:hover{
+    transform: scale(1.1);
+    transition: 2s;
+}
+
+.contatodiv:active{
+    background: rgb(76, 156, 76);
+    transition: 0.1s;
+}
+
+.contatoH2{
+    background: greenyellow;
+    width: 100%;
+    }
+
+.contatowhats{
+    display: block;
+    font-size: 25px;
+    text-align: center;
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+
+.whatsico{
+    width: 10%;
+    display: inline-block;
+    left: 0;
+}
+
+.marcela{
+    display: inline-block;
+    font-size: 50px;
+    margin: 0 20px;
+    font-weight: bold;
+}
+
+.contatodiv2{
+    width: 100%;
+    background: rgb(122, 226, 122);
+}
+
+.contatodiv2:hover{
+    transform: scale(1.1);
+    transition: 2s;
+}
+
+.contatodiv2:active{
+    background: rgb(76, 156, 76);
+    transition: 0.1s;
+}
+
+.whatsico2{
+    width: 10%;
+    display: inline-block;
+    right: 0;
+    position: relative;
+    margin: 5px 0;
+}
+
+.zelio{
+    display: inline-block;
+    font-size: 50px;
+    margin: 0 20px;
+    font-weight: bold;
+}
+
+
+
+
